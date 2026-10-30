@@ -1,0 +1,20 @@
+{
+  "verifiedAt": "2026-10-24T06:24:26.940Z",
+  "origin": "http://127.0.0.1:3001",
+  "accountSettingsDeployed": true,
+  "existingCredentialsUnchanged": true,
+  "googleConfigurationUnchanged": true,
+  "realAccountUpdateRequests": 0,
+  "desktopVisible": true,
+  "mobileVisible": true,
+  "browserErrors": 0,
+  "mode": "sheets",
+  "connection": "connected",
+  "sourceParity": true,
+  "lastSuccessAt": "2026-10-24T06:24:23.033Z",
+  "counts": {
+    "schools": 179,
+    "pics": 175,
+    "visits": 0
+  }
+}
