@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dashboard Marketing Lapangan — LPK Duta Persada Yogyakarta
 
 Website internal, berbahasa Indonesia, untuk memantau sekolah, tier tahunan, kunjungan marketing, tindak lanjut, dan kualitas data. **Input/perubahan data tetap dilakukan di Google Sheets. Website tidak menulis ke spreadsheet.**
@@ -132,3 +133,6 @@ scripts/             Utilitas administrasi lokal
 - Target performa diuji lokal terhadap fixture; waktu muat jaringan produksi dan kesesuaian dengan spreadsheet nyata perlu diverifikasi setelah integrasi dan deployment.
 
 Status penerimaan dan hasil pengujian akhir dicatat di `docs/ACCEPTANCE.md` dan `docs/VERIFICATION.md`.
+=======
+# dashboard-marketing
+>>>>>>> 4a7a33a933891f4f3bec4b2e3f30f4299bda4130
